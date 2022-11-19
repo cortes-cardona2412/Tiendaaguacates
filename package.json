@@ -1,0 +1,23 @@
+
+{
+  "name": "producto",
+  "version": "1.0.0",
+  "description": "Taller de Node JS con Express para Programación Avanzada",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MVC"
+  ],
+  "author": "Freddy Nelson Muñoz Yepes & Santiago Alvarez Ospitia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.20",
+    "pug": "^3.0.2",
+    "sequelize": "^6.25.3"
+  }
+}
